@@ -230,19 +230,6 @@ Dataset Total: 100 jogos
 3. **Transformações adequadas** para análise temporal
 4. **Features relevantes** para o problema de negócio
 5. **Divisão apropriada** para modelagem ML
-
-### 🎯 Contribuições do Projeto
-- **Metodologia reprodutível** para análise de preços Steam
-- **Features engineered** específicas para detecção de oportunidades
-- **Pipeline completo** de processamento de dados
-- **Base sólida** para desenvolvimento de IA
-
-### 📊 Qualidade dos Dados
-- **100% dos registros** utilizáveis após limpeza
-- **24 features informativas** criadas
-- **Target balanceado** para classificação
-- **Dados normalizados** prontos para ML
-
 ---
 
 **Prepared by:** GitHub Copilot  
