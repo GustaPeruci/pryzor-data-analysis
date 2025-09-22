@@ -1,0 +1,4 @@
+total_games_original: 2000
+total_games_with_price_data: 100
+total_features_created: 24
+data_processing_date: 2025-09-22 19:10:52
