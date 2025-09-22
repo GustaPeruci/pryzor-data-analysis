@@ -1,4 +1,4 @@
-# Relatório de Processamento de Dados - TCC Steam Games
+# Relatório de Processamento de Dados - Pryzor
 
 ## Análise de Melhor Momento para Compra de Jogos na Steam
 
@@ -6,7 +6,7 @@
 
 ## 1. RESUMO EXECUTIVO
 
-Este relatório documenta o processamento completo de dados para um projeto de TCC utilizando IA para determinar o melhor momento para compra de jogos na Steam. O projeto seguiu rigorosamente as 5 etapas metodológicas propostas:
+Este relatório documenta o processamento completo de dados para um projeto de portifólio de projeto utilizando IA para determinar o melhor momento para compra de jogos na Steam. O projeto seguiu rigorosamente as 5 etapas metodológicas propostas:
 
 **Resultados Principais:**
 - ✅ **2.000 jogos** analisados no dataset principal
